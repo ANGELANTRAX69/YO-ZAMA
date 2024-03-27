@@ -1,1 +1,1 @@
-# YO-ZAMA
+#Declaracion
